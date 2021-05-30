@@ -1,0 +1,2 @@
+# semana
+mostrar dia
